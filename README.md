@@ -1,4 +1,4 @@
-# data-science-airnbnb, cód. transcrito diretamente aqui por causa de probelmas de visualização, o arquivo do notebook pode ser baixado e funciona normalmente
+# data-science-airnbnb, cód. transcrito diretamente aqui por causa de problemas de visualização, o arquivo do notebook pode ser baixado e funciona normalmente
 Projeto de data science e machine learning, a proposta é criar um modelo para calcular o melhor preço para usar em um quarto usando os dados do Airbnb
 # nesse projeto iremos montar um modelo de previsão de preço que permita uma pessoa que possui um imóvel possa saber quanto deve cobrar pela diária do seu imóvel
 # a base de dados se encontra aqui: https://drive.google.com/file/d/1C766PFrD_1u7o47yTc_VXLa6Ot4xd5lM/view?usp=sharing
